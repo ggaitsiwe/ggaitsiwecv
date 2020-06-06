@@ -1,5 +1,5 @@
 
-**CV:**  https://egbendito.github.io/egbenditocv/
+**CV:**  https://ggaitsiwe.github.io/ggaitsiwecv/
 
 **Credits**
 - [Bootstrap](http://getbootstrap.com/)
