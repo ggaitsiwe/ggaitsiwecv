@@ -191,7 +191,7 @@
 }
 .fa-envelope-o:before {
   content: "\f003";
-  font-size: 15px;
+  font-size: 13px;
 }
 .fa-heart:before {
   content: "\f004";
@@ -801,7 +801,7 @@
 }
 .fa-envelope:before {
   content: "\f0e0";
-  font-size: 15px;
+  font-size: 13px;
 }
 .fa-linkedin:before {
   content: "\f0e1";
@@ -1345,7 +1345,7 @@
 }
 .fa-envelope-square:before {
   content: "\f199";
-  font-size: 15px;
+  font-size: 13px;
 }
 .fa-wordpress:before {
   content: "\f19a";
